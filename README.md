@@ -19,6 +19,9 @@ The following Unsupervised classification models were then used:
 
 ***PCA*** was then conducted to try to improve the performance of the algorithms and the same models were then ran again.
 Models were assessed through their own scatterplots as well as their Silhouette score.
+![image](https://user-images.githubusercontent.com/68299933/215767979-57f65ec0-dcf4-4e8b-a1a7-4dd50d926eb1.png)
+
+(sample of Kmeans plot with PCA)
 
 A detailed breakdown can be found in the notebook
 
