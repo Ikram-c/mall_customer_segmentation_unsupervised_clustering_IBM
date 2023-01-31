@@ -13,15 +13,11 @@ Outliers were managed using two different methods: the first was to check for da
 A scatter plot was produced to see if clusters could be visually identified before using any machine learning algorithms and 5 distinct clusters were observed.
 
 The following Unsupervised classification models were then used:
-
--***KMeans***
-
--***Meanshift***
-
--***DBScan***
+- ***KMeans***
+- ***Meanshift***
+- ***DBScan***
 
 ***PCA*** was then conducted to try to improve the performance of the algorithms and the same models were then ran again.
-
 Models were assessed through their own scatterplots as well as their Silhouette score.
 
 A detailed breakdown can be found in the notebook
